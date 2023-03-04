@@ -1,0 +1,1 @@
+JMH S 27 org.example.BenchmarkRunner S 54 org.example.jmh_generated.BenchmarkRunner_init_jmhTest S 4 init S 11 AverageTime E A 1 1 1 E E E E E E E E E E E E E E E E E 
